@@ -4,6 +4,8 @@ I'm from São Paulo – Brazil, graduated in **Database** and currently working 
 
 In addition to my professional experience, I also have a strong interest and background in **programming**.  
 
+<img src="https://raw.githubusercontent.com/gu-herminio/images/5726228b37ac825002006ea4bd04bf645bef9a64/octocat.png" alt="Octocat" width="350"/>
+
 
 ## 🚀 About me  
 - Experience with **Python**, especially in **automation** and **data scraping** projects using **Selenium**,  
@@ -28,8 +30,11 @@ Continuously learning new technologies and improving my coding skills to become 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gu-herminio&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu-herminio&layout=compact&theme=tokyonight)  
+<div>
+<a href="https://github.com/gu-herminio">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu-herminio&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gu-herminio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
 
@@ -38,4 +43,4 @@ Continuously learning new technologies and improving my coding skills to become 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gu.humberto100@gmail.com)
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/gu-herminioi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gu-herminio/gu-herminio/blob/output/github-contribution-grid-snake.svg)
