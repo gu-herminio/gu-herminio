@@ -8,8 +8,8 @@ In addition to my professional experience, I also have a strong interest and bac
 
 
 ## 🚀 About me  
-- Experience with **Python**, especially in **automation** and **data scraping** projects using **Selenium**,  
-  focused on collecting essential data to enhance **health-related databases**.  
+- Experience with **Python**, especially in **automation** and **data scraping** projects using **Selenium** and **Beautiful Soup**,  
+  focused on collecting and structuring public health-related data from official open sources.
 - Academic projects in **Java**, such as a **Hangman game** with graphical interface and **SQLite** database integration.  
 - Participation in a **Spring Boot** project for sending **GET/POST** commands directly to a database.  
 
