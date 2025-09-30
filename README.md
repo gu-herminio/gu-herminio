@@ -5,8 +5,6 @@ I'm from São Paulo – Brazil, graduated in **Database** and currently working 
 In addition to my professional experience, I also have a strong interest and background in **programming**.  
 
 
-[![GitHub Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)](https://github.com/gu-herminio)
-
 ## 🚀 About me  
 - Experience with **Python**, especially in **automation** and **data scraping** projects using **Selenium**,  
   focused on collecting essential data to enhance **health-related databases**.  
