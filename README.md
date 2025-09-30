@@ -43,4 +43,3 @@ Continuously learning new technologies and improving my coding skills to become 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gu.humberto100@gmail.com)
 
 
-![Snake animation](https://github.com/gu-herminio/gu-herminio/blob/output/github-contribution-grid-snake.svg)
