@@ -26,10 +26,13 @@ Continuously learning new technologies and improving my coding skills to become 
 ## 🛠️ Technologies & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM-4285F4?style=flat&logo=google&logoColor=white)  
+![CRM](https://img.shields.io/badge/CRM-4285F4?style=flat&logo=google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-FF69B4?style=flat&logo=python&logoColor=white)
 
 ---
 
