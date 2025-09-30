@@ -2,10 +2,14 @@
 
 I'm from São Paulo – Brazil, graduated in **Database** and currently working at **Veeva Systems** as part of the **Professional Services** team, specializing in **CRM implementation projects** for companies in the pharmaceutical industry.  
 
-In addition to my professional experience, I also have a strong interest and background in **programming**.  
+In addition to my professional experience, I also have a strong background in **programming**, including:  
+- 🗂️ **Data extraction**  
+- 🛢️ **Database connections**  
+- 🤖 **Automation tasks**
 
-<img src="https://raw.githubusercontent.com/gu-herminio/images/5726228b37ac825002006ea4bd04bf645bef9a64/octocat.png" alt="Octocat" width="350"/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gu-herminio/images/5726228b37ac825002006ea4bd04bf645bef9a64/octocat.png" alt="Octocat" width="350"/>
+</p>
 
 ## 🚀 About me  
 - Experience with **Python**, especially in **automation** and **data scraping** projects using **Selenium** and **Beautiful Soup**,  
