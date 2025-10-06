@@ -37,11 +37,11 @@ Continuously learning new technologies and improving my coding skills to become 
 ---
 
 ## 📊 GitHub Stats  
-<div>
-<a href="https://github.com/gu-herminio">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu-herminio&layout=compact&langs_count=7&theme=dracula&count_private=true&cache_seconds=3600"/>
-<img loading="lazy" height="185em" src="https://github-readme-stats.vercel.app/api?username=gu-herminio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600"/>
-</div>
+
+| Stats | Streak | Top Languages |
+|--------------|--------|----------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gu-herminio&show_icons=true&theme=radical&hide_rank=false&count_private=true&include_all_commits=true&card_width=200&cache_seconds=3600) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gu-herminio&theme=radical&hide_border=false&card_width=200&cache_seconds=3600) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gu-herminio&layout=normal&theme=radical&include_all_commits=true&count_private=true&cache_seconds=3600&card_width=200")
+
 
 ---
 
