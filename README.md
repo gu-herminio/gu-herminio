@@ -40,7 +40,7 @@ Continuously learning new technologies and improving my coding skills to become 
 
 | Stats | Streak | Top Languages |
 |-------|--------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gu-herminio&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gu-herminio&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gu-herminio&layout=compact&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gu-herminio&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=gu-herminio&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gu-herminio&layout=compact&theme=radical) |
 
 
 
