@@ -46,7 +46,7 @@ My goal is to grow as a technology professional, combining my experience with **
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gu-herminio&theme=radical)
-
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gu-herminio&layout=compact)
 
 
 ---
@@ -54,5 +54,7 @@ My goal is to grow as a technology professional, combining my experience with **
 ## 📫 Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-herminio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gu.humberto100@gmail.com)
+
+
 
 
