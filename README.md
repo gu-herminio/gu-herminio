@@ -16,7 +16,7 @@ I'm building my skills in Data Science while bringing hands-on experience in Pyt
 - **Python Automation & Web Scraping:** Experience developing automation and data collection scripts using **Selenium** and **Beautiful Soup**, including extracting and structuring publicly available data from official health-related sources.
 - **Databases & Data Management:** Background in database technology, including data extraction, database connections, SQL, and working with structured data.
 - **Backend Development:** Academic experience with **Java** and **Spring Boot**, including projects involving GET/POST requests and database interactions.
-- **Programming Projects:** Developed a Java Hangman game featuring a graphical interface and **SQLite** database integration.
+- **Programming Projects:** Programming & Data Projects: Developed a Java Hangman game featuring a graphical interface and SQLite database integration. Also worked on Python web scraping projects using Selenium and Beautiful Soup to collect and structure data from public sources, automation scripts, and API integrations to retrieve and process data. 
 
 ## 📚 Currently Learning
 
